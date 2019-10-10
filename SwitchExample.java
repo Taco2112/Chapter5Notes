@@ -14,6 +14,8 @@ public class SwitchExample{
     case 3: System.out.println("3 French Hens");
     case 4: System.out.println("4 Golden Rings");
     case 5: System.out.println("5 DARN IT YOU MESSED UP FOOL ");
+    break;
+    default: System.out.println("Idiot, enter a valid number darn it!");
 
   }
 
